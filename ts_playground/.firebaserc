@@ -1,0 +1,11 @@
+{
+  "projects": {
+    "default": "tsplayground-77b71"
+  },
+  "targets": {},
+  "etags": {
+    "tsplayground-77b71": {
+      "extensionInstances": {}
+    }
+  }
+}

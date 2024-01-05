@@ -1,0 +1,12 @@
+$favColor: rgb(231, 76, 60);
+$defaultRadius: 0.4rem;
+
+
+.FavButton {
+    background-color: $favColor;
+    color: white;
+    padding: 0.8rem;
+    border-radius: $defaultRadius;
+    cursor: pointer;
+  }
+  
