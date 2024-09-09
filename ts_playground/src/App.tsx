@@ -11,7 +11,7 @@ function App() {
     { name: "hanako", age: 24 },
     { name: "takashi", age: 30 }
   ];
-//hallow
+//hallow[]
   const checkNextData = () => {
     console.log(note.length)
     if (page < note.length - 1) {
