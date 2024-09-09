@@ -28,11 +28,11 @@ function App() {
   const showPage = () => {
     const showName: string = note[page].name
     const showAge: any = note[page].age
-
+//コメントのこしてみた
     return (
       <>
         <p>
-          {showName}さん
+          {showName}さん 
           {showAge}
         </p>
       </>
