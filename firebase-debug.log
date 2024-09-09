@@ -46,3 +46,13 @@ Before we get started, keep in mind:
     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
 [error] 
 [error] Error: Failed to create project. See firebase-debug.log for more info.
+[debug] [2024-01-24T06:00:28.038Z] ----------------------------------------------------------------------
+[debug] [2024-01-24T06:00:28.040Z] Command:       C:\Users\member83\AppData\Local\Volta\tools\image\node\18.19.0\node.exe C:\Users\member83\AppData\Local\Volta\tools\image\packages\firebase-tools\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2024-01-24T06:00:28.040Z] CLI Version:   13.0.3
+[debug] [2024-01-24T06:00:28.040Z] Platform:      win32
+[debug] [2024-01-24T06:00:28.041Z] Node Version:  v18.19.0
+[debug] [2024-01-24T06:00:28.049Z] Time:          Wed Jan 24 2024 15:00:28 GMT+0900 (日本標準時)
+[debug] [2024-01-24T06:00:28.049Z] ----------------------------------------------------------------------
+[debug] 
+[info] i  Firebase optionally collects CLI and Emulator Suite usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
