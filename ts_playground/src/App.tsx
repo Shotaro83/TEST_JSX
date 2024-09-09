@@ -11,7 +11,7 @@ function App() {
     { name: "hanako", age: 24 },
     { name: "takashi", age: 30 }
   ];
-
+//hallow
   const checkNextData = () => {
     console.log(note.length)
     if (page < note.length - 1) {
@@ -24,6 +24,7 @@ function App() {
     }
 
   }
+
 
   const showPage = () => {
     const showName: string = note[page].name
