@@ -24,7 +24,7 @@ function App() {
     }
 
   }
-
+//こんばんわん
 
   const showPage = () => {
     const showName: string = note[page].name
