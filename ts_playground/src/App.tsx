@@ -5,7 +5,8 @@ import './App.css'
 
 function App() {
 
-  const createTime: Date = new Date(); //データを作成した時間を記録　久松
+
+  const createTime: Date = new Date();
   const deleteTime = new Date();
   deleteTime.setFullYear(createTime.getFullYear() + 1);
 
